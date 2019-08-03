@@ -1,29 +1,6 @@
-# marvel
+# Marvel
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
+![surprise_marvel_releases_a_new_full_trailer_and_poster_for_avengers_endgame_social 0](https://user-images.githubusercontent.com/25328625/62407559-0ffe1400-b588-11e9-8547-77b895985e1d.jpg)
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
