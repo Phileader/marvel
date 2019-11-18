@@ -27,7 +27,7 @@ export default {
     },
     methods: {
         getEvents: function() {
-            axios.get(`http://gateway.marvel.com/v1/public/events?limit=10&offset=0&apikey=${public_key}`)
+            axios.get(`https://gateway.marvel.com/v1/public/events?limit=10&offset=0&apikey=${public_key}`)
             .then((result) => {
                 console.log(result)
                 result.data.data.results.forEach((item) => {

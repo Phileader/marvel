@@ -102,7 +102,7 @@ export default {
     },
     methods: {
         getCharacters: function() {
-            axios.get(`http://gateway.marvel.com/v1/public/characters?limit=10&offset=0&apikey=${public_key}`)
+            axios.get(`https://gateway.marvel.com/v1/public/characters?limit=20&offset=0&apikey=${public_key}`)
             .then((result) => {
                 //console.log(result)
                 result.data.data.results.forEach((item) => {
